@@ -1,4 +1,4 @@
-# Zoom Clone
+# SAMPARK
 
 A full-stack web application that replicates the core functionality of Zoom, enabling users to create and join video meetings, chat in real-time, and manage their meeting history. 
 
